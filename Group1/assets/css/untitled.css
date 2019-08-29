@@ -1,0 +1,22 @@
+a#signup-btn.text-warning.bg-primary{
+  color:white;
+}
+
+a.hover{
+  background-color:#aaffaa;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+  color:#4582ec;
+  background-color:#afaeff;
+}
+
+div#container-form.container{
+  position:absolute;
+  top:200px;
+}
+
+button.btn.btn-primary.btn-sm{
+  left:20%;
+}
+
